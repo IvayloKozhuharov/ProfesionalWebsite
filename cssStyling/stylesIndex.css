@@ -1,0 +1,26 @@
+html, body {
+  font-family: 'Share Tech Mono', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+#titleCard {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  font-size: 1.8em;
+  background-color: #F2F2F2;
+}
+
+#titleImg {
+  width: 100%
+  height: ;
+}
+
+#websiteTitle {
+/*  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0.5em;*/
+  font-size: 2em;
+  letter-spacing: 5px;
+}
